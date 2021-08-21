@@ -8,7 +8,7 @@ import ShapeRight from 'assets/shape-right.png';
 export default function Banner() {
   return (
     <section sx={styles.banner} id="home">
-      <Container sx={styles.container}>
+      <Container sx={styles.container} css={{ textAlign: 'center' }}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
             Top Quality Digital Products to Explore
@@ -64,6 +64,7 @@ const styles = {
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
+      textAlign: 'center',
     },
     contentBox: {
       width: ['100%', '90%', '535px', null, '57%', '60%', '68%', '60%'],

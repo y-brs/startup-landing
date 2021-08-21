@@ -8,7 +8,7 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "caniuse-lite": "^1.0.30001251",
     "framer-motion": "^2.7.5",
     "globby": "^11.0.0",
     "isomorphic-unfetch": "^3.0.0",
@@ -32,7 +32,6 @@
   "devDependencies": {
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
-    "imagemin-svgo": "^8.0.0",
-    "next-sitemap": "^1.2.4"
+    "imagemin-svgo": "^8.0.0"
   }
 }
