@@ -10,9 +10,7 @@
 #### https://startup-landing-neon.vercel.app
 
 ![Screenshot 2021-08-22 at 00 49 08](https://user-images.githubusercontent.com/68222437/130335940-82ab2160-789d-4b64-b429-ec39be1656a6.png)
-![Screenshot 2021-08-22 at 00 49 20](https://user-images.githubusercontent.com/68222437/130335942-58c8ab02-85e2-4c48-8bce-4553b9421f01.png)
-
-
+![Screenshot 2021-08-22 at 01 17 51](https://user-images.githubusercontent.com/68222437/130336184-f113ad4f-072b-4808-99e6-d5a4e38e91e2.png)
 
 ## Getting Started
 
