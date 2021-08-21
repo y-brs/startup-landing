@@ -44,6 +44,7 @@ const styles = {
         color: 'primary',
       },
       '.social__share': {
+        display: 'flex',
         opacity: 1,
         a: {
           my: 0,
