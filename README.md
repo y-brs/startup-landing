@@ -2,10 +2,10 @@
 
 ### Features
 
-1. Components, props, json data.
+1. Theme UI.
 2. Full responsive.
-3. Styled components.
-4. Carousel and more...
+3. Components, props, JSON data.
+4. Carousel and more... .
 
 #### https://startup-landing-neon.vercel.app
 
